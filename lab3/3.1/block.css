@@ -1,0 +1,30 @@
+.menu{
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 380px;
+}
+.golovna{
+    height: 380px;
+    position: relative;
+    float: right;
+    width : 49%;
+}
+.zmist{
+    overflow: hidden;
+    position: relative;
+    float: center;
+    width: 100%;
+}
+.nagradu{
+    height: 220px;
+    position: relative;
+    float: left;
+    width: 50%;
+}
+.feadback{
+    height: 220px;
+    position: relative;
+    float: right;
+    width: 49%;
+}
